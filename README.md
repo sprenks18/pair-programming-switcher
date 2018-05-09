@@ -12,7 +12,7 @@ Run using `python3 pairProgramming.py`
 
 ## Customizing
 
-Edit the constants near top of program
+**Edit the constants near top of program**
 
 
 ROLE_INTERVAL=6 # time in the role, in minutes
