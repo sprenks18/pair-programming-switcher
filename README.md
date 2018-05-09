@@ -1,5 +1,5 @@
 # pair-programming-switcher README
-Python script to let students know when they should switch between driver and navigator
+Python script to let students know when they should switch between driver and navigator, both visually and audibly.  The program displays a screen, telling the students what their roles should be--either driver or navigator--depending on if they're sitting on the left or right of their partner. Every ROLE_INTERVAL (currently 6 because my intro course works on small problems) minutes, the script will beep twice and notify students that they should switch roles.  The switch roles screen displays for 30 seconds (another constant).  Then, the screen displays the new roles for the students.
 
 ## Dependencies
 * Python 3
